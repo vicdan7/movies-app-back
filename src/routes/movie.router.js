@@ -14,7 +14,6 @@ routerMovie.route('/:id')
 
 routerMovie.route('/:id/genres')
     .post(setGenres);
-
     
 routerMovie.route('/:id/actors')
     .post(setActors);

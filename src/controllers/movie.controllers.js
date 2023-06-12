@@ -72,5 +72,5 @@ module.exports = {
     update,
     setGenres,
     setActors,
-    setDirectors 
+    setDirectors
 }
